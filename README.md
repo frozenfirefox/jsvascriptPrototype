@@ -1,0 +1,2 @@
+# jsvascriptPrototype
+jsvascriptPrototype继承
